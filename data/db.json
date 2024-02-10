@@ -1,0 +1,40 @@
+{
+    "menu": [
+        {
+           "id": 1
+        }
+    ],
+    "sevece": [
+        {
+            "id":1,
+            "title":"Fresh Coffee Beans",
+            "img": "/service-1.jpg",
+            "icon":"faCoffee",
+            "par": " Sit lorem ipsum et diam elitr est dolor sed duo. Guberg sea et et lorem dolor sed est sitinvidunt, dolore tempor diam ipsum takima erat tempor"
+        },
+    
+        {
+            "id":2,
+            "title":"Fresh Coffee Beans",
+            "img": "/service-2.jpg",
+            "icon":"faAward",
+            "par": " Sit lorem ipsum et diam elitr est dolor sed duo. Guberg sea et et lorem dolor sed est sitinvidunt, dolore tempor diam ipsum takima erat tempor"
+        },
+    
+        {
+            "id":3,
+            "title":"Fresh Coffee Beans",
+            "img": "/service-3.jpg",
+            "icon":"faTable",
+            "par": " Sit lorem ipsum et diam elitr est dolor sed duo. Guberg sea et et lorem dolor sed est sitinvidunt, dolore tempor diam ipsum takima erat tempor"
+        },
+    
+        {
+            "id":4,
+            "title":"Fresh Coffee Beans",
+            "img": "/service-4.jpg",
+            "icon":"faAward",
+            "par": " Sit lorem ipsum et diam elitr est dolor sed duo. Guberg sea et et lorem dolor sed est sitinvidunt, dolore tempor diam ipsum takima erat tempor"
+        }
+    ]
+}
